@@ -23,4 +23,4 @@ Practical exercises and projects are being added as they are completed and teste
   
 # Linux-system-administration
 Linux administration, Bash scripting, storage management, and Apache web server practical
->>>>>>> 1a6fe5dbf26573b9085a5981d9eca1ac6b3f8de1
+
